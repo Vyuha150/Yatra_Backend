@@ -15,7 +15,7 @@ const products = [
       "Hygiene standards",
       "Streamlined interiors"
     ],
-    image: "src/assets/Passenger Elevators.png",
+    image: "/src/images/Yatra website_Passenger elevators (size - 400-300) .png",
     link: "/passenger-elevators",
   
   },
@@ -31,7 +31,7 @@ const products = [
       "Compact design",
       "Cutting-edge technology"
     ],
-    image: "src/assets/Residential Elevators.png",
+    image: "/src/images/Yatra website_Home elevators  (size - 400-300) .png",
     link: "/home-elevators",
     
   },
@@ -47,7 +47,7 @@ const products = [
       "Enhanced hygiene protocols",
       "Customisable for users"
     ],
-    image: "src/assets/Bed Elevators.png",
+    image: "/src/images/Yatra website_Hospital elevators(size - 400-300).png",
     link: "/hospital-elevators",
     
   },
@@ -63,7 +63,7 @@ const products = [
       "Fortified cabins",
       "Advanced equipment"
     ],
-    image: "src/assets/Service Elevators.png",
+    image: "/src/images/Yatra website_Freight elevators (size - 400-300).png",
     link: "/freight-elevators",
   
   },
@@ -79,7 +79,7 @@ const products = [
       "Visual experience enhancement",
       "Advanced equipment"
     ],
-    image: "src/assets/Capsule Elevators (Panoramic).png",
+    image: "/src/images/Yatra website_Capsule elevators(size - 400-300) .png",
     link: "/glass-elevators",
     
   },
@@ -95,7 +95,7 @@ const products = [
       "Facilitating control systems",
       "Advanced technology"
     ],
-    image: "src/assets/Machine-Room Less (MRL) Elevators.png",
+    image: "/src/images/Yatra website_MRL elevators(size - 400-300).png",
     link: "/mrl",
   
   },
@@ -111,7 +111,7 @@ const products = [
       "Uncompromisable protection ",
       "Advanced technology"
     ],
-    image: "src/assets/Hydraulic Elevators.png",
+    image: "/src/images/Yatra website_Hydraulic elevators(size - 400-300).png",
     link: "/hydraulic",
     
   },
@@ -127,7 +127,7 @@ const products = [
       "Advanced Sensors ",
       "Customizable  finishes"
     ],
-    image: "src/assets/Commercial Escalators.png",
+    image: "/src/images/Yatra website_Commer escala(size - 400-300).png",
     link: "/commercial",
     
   },
@@ -143,7 +143,7 @@ const products = [
       "Durable construction",
       "Continuous duty design"
     ],
-    image: "src/assets/Public Transport Escalators.png",
+    image: "/src/images/Yatra website_Public transport escalators 400-300.png",
     link: "/public-transport-escalators",
    
   },
@@ -159,7 +159,7 @@ const products = [
       "Sleek aesthetics",
       "Comfortable and futuristic"
     ],
-    image: "src/assets/Moving Walkways.png",
+    image: "/src/images/Yatra website_Moving walkways escalators 400-300.png",
     link: "/moving-walkways-escalators",
   
   },
